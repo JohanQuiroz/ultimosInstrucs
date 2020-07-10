@@ -1,0 +1,25 @@
+{
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Johan",
+      "apellidos": "Quiroz",
+      "email": "johanqgr@gmail.com",
+      "createAt": "2020-04-05"
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos",
+      "apellidos": "Suarez",
+      "email": "suarezz@gmail.com",
+      "createAt": "2020-04-05"
+    },
+    {
+      "id": 6,
+      "nombre": "Juan",
+      "apellidos": "Valverde",
+      "email": "juan@gmail.com",
+      "createAt": "2020-07-24"
+    }
+  ]
+}
